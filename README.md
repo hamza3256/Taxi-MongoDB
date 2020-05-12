@@ -18,14 +18,9 @@ on this is given, in theory it should work.
 
 See the database folder for a copy of a local database with setup.js ran into it
 
-And as always have fun :)
-
-
-
-
 
 By
-Raj Kadir
 Muhammad Hamza
+Raj Kadir
 Oskar Lasota
 Sadeq Rahman
